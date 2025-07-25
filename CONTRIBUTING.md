@@ -94,14 +94,14 @@ python advanced_test.py
 def new_function(param1: str, param2: int) -> bool:
     """
     Brief description of function.
-    
+
     Args:
         param1 (str): Description of param1
         param2 (int): Description of param2
-        
+
     Returns:
         bool: Description of return value
-        
+
     Raises:
         ValueError: When invalid input is provided
     """
@@ -116,7 +116,7 @@ def new_function(param1: str, param2: int) -> bool:
 - [ ] ปรับปรุง error handling
 - [ ] เพิ่มการรองรับรูปแบบภาพใหม่
 
-### Medium Priority  
+### Medium Priority
 - [ ] เพิ่ม GUI interface
 - [ ] ปรับปรุงการแสดงผลลัพธ์
 - [ ] เพิ่ม configuration file support
